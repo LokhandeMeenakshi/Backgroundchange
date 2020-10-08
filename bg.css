@@ -1,0 +1,9 @@
+#msg{
+    text-align: center;
+}
+.content{
+    text-align: center;
+    padding: 10px 65px;
+    font-size: 200px;
+    position: relative;
+}
